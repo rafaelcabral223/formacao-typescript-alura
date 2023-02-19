@@ -8,5 +8,3 @@
 | :label: Tecnologias   | typescript, html, javascript  |
 
 Essa aplicação simula uma negociação na bolsa de valores. É uma aplicação web que permite que cadastremos uma data, uma quantidade e um valor de uma negociação e que possamos exibir em uma lista na qual o usuário possa verificar o que foi cadastrado. Além disso, construímos uma API com alguns dados, que apenas com um clique, o usuário pode importar algumas negociações para nossa aplicação.
-
-vídeo
